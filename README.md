@@ -1,7 +1,7 @@
 # Soal 1
 Ethical Hacking 2023
 ---
-##Deskripsi
+## Deskripsi
 Help Bafer Remember his favorite number!
 Looks like Bafer use his favorite number as Phone's password. But He forget the password.
 
