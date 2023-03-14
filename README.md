@@ -20,7 +20,7 @@ For training, we use guessing random number generator game to findout what is th
 ---
 ## Compiling
 ```
-gcc string_format_vuln.c -o string_format_vuln 
+gcc chall.c -o chall
 ```
 ---
 ## Deployment
